@@ -1,4 +1,7 @@
 import streamlit as st
 
 st.title("streamlit Demo App")
-st.header("ヘッダーを追加")
+st.header("ヘッダー")
+st.subheader("サブヘッダー")
+
+st.button("ボタン")
